@@ -9,9 +9,9 @@ title: Shresht
 first_name: Shresht
 last_name: Venkatraman
 
-# Status emoji
-status:
-  icon: 
+# # Status emoji
+# status:
+#   icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -88,7 +88,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Created Statistical Reports to quantify the health impact of recreation infrastructure on elderly communities in Indiana using Ordinal Regression models
-      - Modeled the risk of flood damage on vulnerable communities in the state of Indiana using statistical methodslike chi-square tests, multivariate regression analysis.
+      - Modeled the risk of flood damage on vulnerable communities in the state of Indiana using statistical methods like chi-square tests, multivariate regression analysis.
       - Created custom data scraping algorithms using Selenium to efficiently create a database of CMS Chronic Condition data by geographic region
 
   - position: Finance & Data Science Intern
@@ -175,8 +175,8 @@ awards:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
 
+---
 ## About Me
 
-Shresht Venkatramana is a graduate students studying Computational Dataa Science at Indiana University. His research interests include Cultural Biases in AI Models, Computational Economics, Predictive Statistics. He founded the Data Science and Machine Learning Club at IU's Indianapolis Campus and is also the Vice President of the ASA Student Chapter. 
+Shresht Venkatramana is a graduate student studying Computational Data Science at Indiana University. His research interests include Cultural Biases in AI Models, Computational Economics, Predictive Statistics. He founded the Data Science and Machine Learning Club at IU's Indianapolis Campus and is also the Vice President of the ASA Student Chapter. 
