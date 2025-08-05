@@ -80,10 +80,10 @@ education:
       -  Calculus and Linear Algebra for Engineering
 work:
   - position: Data Science Intern
-    company_name: POLIS Centter
+    company_name: POLIS Center
     company_url: 'https://polis.indianapolis.iu.edu/'
     company_logo: ''
-    date_start: 2024-06-015
+    date_start: 2024-06-15
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -95,12 +95,13 @@ work:
     company_name: Advent International
     company_url: ''
     company_logo: ''
-    date_start: 2022-06-010
+    date_start: 2022-06-10
     date_end: 2022-08-25
     summary: |
       Responsibilities include:
-      --Designed Tableau dashboards for 8 firm departments using 5+ years of business data. Improved the firm’sability to compare expenses across departments and augment decision making.
-      - Built a ‘Deal-Stage Meter’ for the firm’s 3 global tax teams to accurately track the status of Private EquityDeals and manage timelines for tax compliance.- Created a custom Python data-restructuring algorithm for the FP&A department. Increased efficiency bysaving 10+ hours of manual data-cleaning.
+      -Designed Tableau dashboards for 8 firm departments using 5+ years of business data. Improved the firm’s ability to compare expenses across departments and augment decision making.
+      - Built a ‘Deal-Stage Meter’ for the firm’s 3 global tax teams to accurately track the status of Private EquityDeals and manage timelines for tax compliance.
+      - Created a custom Python data-restructuring algorithm for the FP&A department. Increased efficiency bysaving 10+ hours of manual data-cleaning.
       - Produced statistical and quantitative reports using Python & R to present findings to manage partners andother company leadership.
 
 # Skills
