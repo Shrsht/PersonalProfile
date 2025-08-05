@@ -52,8 +52,8 @@ interests:
 education:
   - area: Computational Data Science Masters
     institution: Indiana University
-    date_start: 2024-01-014
-    date_end: 2026-5-15
+    date_start: 2024-01-14
+    date_end: 2026-05-15
     summary: |
       GPA: 3.9/4.0
       
